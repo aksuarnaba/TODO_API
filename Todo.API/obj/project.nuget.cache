@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ACvp/A/MwU=",
+  "success": true,
+  "projectFilePath": "D:\\BLUEPRINTS\\QUANTUM\\Todo\\Todo.API\\Todo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aron.suarnaba\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\aron.suarnaba\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
