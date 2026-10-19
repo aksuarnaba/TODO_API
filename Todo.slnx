@@ -1,3 +1,11 @@
 <Solution>
-  <Project Path="Todo.API/Todo.API.csproj" />
+  <Folder Name="/src/" />
+  <Folder Name="/src/Application/" />
+  <Folder Name="/src/Domain/" />
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="Todo.Infastructure/Todo.Infastructure.csproj" Id="6cbecb54-f7b2-4bc6-9622-e991db629be2" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="Todo.API/Todo.API.csproj" />
+  </Folder>
 </Solution>
